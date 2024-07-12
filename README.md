@@ -1,6 +1,6 @@
 # Hi 👋, I'm Max
 
-## An engineer, who is particularly pedantic about following the best practices, with a broad tech skills set in:
+## An engineer with a broad tech skills set in:
 
 - **Traditional Machine Learning and the most recent GenAI models**
 - **Full Stack Applications (Python, ReactJS, TypeScript)**
