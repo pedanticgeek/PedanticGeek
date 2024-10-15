@@ -3,7 +3,7 @@
 ## An engineer with a broad tech skills set in:
 
 - **Traditional Machine Learning and the most recent GenAI models**
-- **Full Stack Applications (Python, ReactJS, TypeScript)**
+- **Full Stack Applications (Python, ReactJS, TypeScript, NextJJ, NestJS)**
 - **SQL and No-SQL Databases (Postgres, Neo4J, DynamoDB, Redis)**
 - **Cloud Infrastructure (AWS, Azure) and Deployment**
 - **and Chrome Extension Development**
